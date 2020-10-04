@@ -1,0 +1,13 @@
+D:\Uros\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\Uros\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe
+D:\Uros\PlayerUI\PlayerUI\bin\Debug\PlayerUI.pdb
+D:\Uros\PlayerUI\PlayerUI\obj\Debug\PlayerUI.csprojResolveAssemblyReference.cache
+D:\Uros\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+D:\Uros\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+D:\Uros\PlayerUI\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.Cache
+D:\Uros\PlayerUI\PlayerUI\obj\Debug\PlayerUI.exe
+D:\Uros\PlayerUI\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\Uros\PlayerUI\PlayerUI\obj\Debug\PlayerUI.FormaAlbumi.resources
+D:\Uros\PlayerUI\PlayerUI\obj\Debug\PlayerUI.FormaIzvodjaci.resources
+D:\Uros\PlayerUI\PlayerUI\obj\Debug\PlayerUI.FormaPesme.resources
+D:\Uros\PlayerUI\PlayerUI\bin\Debug\cd_kolekcija.accdb
